@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [blog-preview-card](https://github.com/phangtono/blog-preview-card)
+- Live Site URL: [blog-preview-card](https://your-live-site-url.com)
 
 ## My process
 
@@ -41,7 +41,7 @@ Users should be able to:
 ### What I learned
 
 I learned to organize layouts with flexbox and grid.
-So that <card__tag> can be in the background according to the design, I added <span>, and I used :hover selector to select elements when you mouse over them. And for the font because it is available when downloading, I used font-face in coding this time
+section <card__tag> can be in the background according to the design, I added <span>, and I used :hover selector to select elements when you mouse over them. And for the font because it is available when downloading, I used font-face in coding this time
 
 ```html
 <div role="card" class="card">
@@ -76,4 +76,3 @@ So that <card__tag> can be in the background according to the design, I added <s
     color: var(--primary-yellow);
     cursor: pointer;
 }
-```"# blog-preview-card" 
