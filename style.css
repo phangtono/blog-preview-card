@@ -44,10 +44,12 @@ body{
     width: 385px;
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    gap: 1.1rem;
     padding: 1rem;
     border-radius: 1rem;
     background-color: var(--neutral-white);
+    border: 1px solid var(--neutral-black);
+    box-shadow: 5px 5px var(--neutral-black);
 }
 
 .card__img {
