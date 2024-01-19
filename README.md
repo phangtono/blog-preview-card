@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [blog-preview-card](https://github.com/phangtono/blog-preview-card)
-- Live Site URL: [blog-preview-card](https://your-live-site-url.com)
+- Live Site URL: [blog-preview-card](https://bucolic-daffodil-5e8a51.netlify.app/)
 
 ## My process
 
